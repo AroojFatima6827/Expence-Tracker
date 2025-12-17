@@ -127,7 +127,7 @@ export default function ExpenseTable({
               >
                 <td>{title}</td>
                 <td>{category}</td>
-                <td>₹{amount}</td>
+                <td>Rs{amount}</td>
               </tr>
             ))}
           <tr>
