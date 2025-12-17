@@ -140,7 +140,7 @@ export default function ExpenseTable({
             >
               Clear Sort
             </th>
-            <th>₹{total}</th>
+            <th>Rs{total}</th>
           </tr>
         </tbody>
       </table>
